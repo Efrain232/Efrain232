@@ -19,12 +19,13 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <br/>
 
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  <ul>
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Tecnologias que conozco
   </ul>
 </div>
+<br></br>
 
-<div align="center">
+<div>
 
 <!--tech stack icons-->
 <p align="center">
@@ -41,10 +42,9 @@ I am a computer engineering student, currently halfway through my degree. I am e
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Efrain232&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
+<td width="50%" >
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Efrain232&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
