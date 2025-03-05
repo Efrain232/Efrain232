@@ -30,7 +30,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,discord,docker,postgres,firebase,instagram,github,html,java,js,linux,mongodb,mysqllive,notion,nodejs,py,react,tailwind,ts,vscode,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=css,discord,docker,postgres,firebase,instagram,github,html,java,js,linux,mongodb,notion,nodejs,py,react,tailwind,ts,vscode,mysql&perline=14" />
   </a>
 </p>
 
